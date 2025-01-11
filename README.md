@@ -26,8 +26,3 @@ This application is a **Medication Reminder App** designed to help users track t
 
 ### Add Medication Screen
 ![Add Medication Screen](link-to-your-add-medication-image)
-
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/flutter_application_final.git
