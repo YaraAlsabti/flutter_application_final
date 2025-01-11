@@ -19,10 +19,9 @@ This application is a **Medication Reminder App** designed to help users track t
 
 ## Screenshots
 ### Splash Screen
-![Splash Screen](link-to-your-splash-image)
+![Splash Screen]
 
 ### Home Screen
-![Home Screen](link-to-your-home-image)
-
+![Home Screen]
 ### Add Medication Screen
-![Add Medication Screen](link-to-your-add-medication-image)
+![Add Medication Screen]
