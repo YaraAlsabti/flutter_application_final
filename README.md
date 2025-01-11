@@ -1,4 +1,4 @@
-# flutter_application_final
+
 # Medication Reminder App
 
 ## Description
